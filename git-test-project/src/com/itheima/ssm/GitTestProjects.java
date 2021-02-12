@@ -7,4 +7,10 @@ public class GitTestProjects {
         System.out.println("hello3");
         System.out.println("hello4");
     }
+
+    public void test(){
+        int i;
+        i= 15;
+        System.out.println(i+10);
+    }
 }
